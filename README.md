@@ -33,7 +33,7 @@ A Spring MVC web application for Employee Information Management with the follow
 i. Clone the git repo
 
 ```
-https://github.com/AAdewunmi/SpringBoot-Employee-Management-System.git
+ (https://github.com/ankitchhonker/Employees-management-system)
 ```
 
 ii. Open project folder
